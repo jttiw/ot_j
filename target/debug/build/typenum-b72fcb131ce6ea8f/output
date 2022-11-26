@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/j/rusty/oblivious_transfer/ot_bin/target/debug/build/typenum-b72fcb131ce6ea8f/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/j/rusty/oblivious_transfer/ot_bin/target/debug/build/typenum-b72fcb131ce6ea8f/out/op.rs
